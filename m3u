@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 group-title="GLOBO CANAIS",BBC ONE HD
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_hd.m3u8
+#EXTINF:-1 group-title="GLOBO CANAIS",BBC TWO HD
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_two_hd.m3u8
+#EXTINF:-1 group-title="GLOBO CANAIS",CBBC HD
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbbc.m3u8
+#EXTINF:-1 group-title="GLOBO CANAIS",CBEEBIES HD
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbeebies.m3u8
