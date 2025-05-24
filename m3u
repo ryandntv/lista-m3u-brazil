@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="GLOBO CANAIS",GLOBO SP HD
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO SP HD
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_hd.m3u8
-#EXTINF:-1 group-title="GLOBO CANAIS",GLOBO BA HD
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO BA HD
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_hd.m3u8
