@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="DESENHOS MEUMD", 081 FAMILY GUYS
-http://meumd.com/live/25101989/25101989/27356854.m3u8
+#EXTINF:-1 group-title="DESENHOS TUNING", 081 SOUTH PARK
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d53f168-eca6-11ee-861d-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown
 #EXTINF:-1 group-title="LISTA DE CANAIS", 001 UFC FIGHT PASS
 http://granpirosh.top/live/841866657/c581b7318b/250112.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 002 UFC FIGHT PASS 2
