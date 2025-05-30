@@ -1,161 +1,169 @@
 #EXTM3U
+#EXTINF:-1 group-title="DESENHOS 24H", 081 SOUTH PARK
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d53f168-eca6-11ee-861d-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown
+#EXTINF:-1 group-title="DESENHOS 24H", 082 PICA PAU
+http://ap4x.online/live/ONNEPLAY/0511605511/3787423.m3u8
+#EXTINF:-1 group-title="DESENHOS 24H", 083 DRAGON BALL
+http://ap4x.online/live/ONNEPLAY/0511605511/3787496.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 001 UFC FIGHT PASS
-http://pfsv.io/live/epg/epg/132342.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/250112.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 002 UFC FIGHT PASS 2
-http://pfsv.io/live/epg/epg/204149.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/555764.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 003 FORMULA1(F1)
-http://pfsv.io/live/epg/epg/116348.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/18297.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 004 TV BRASIL
-http://pfsv.io/live/epg/epg/89.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/364678.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 005 TV CAMARA
-http://pfsv.io/live/epg/epg/290359.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/368851.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 006 TV JUSTICA
-http://pfsv.io/live/epg/epg/73.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/177.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 007 TV CULTUTA
-http://pfsv.io/live/epg/epg/47.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/364662.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 008 TV SENADO
-http://pfsv.io/live/epg/epg/72.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/368850.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 009 CANCAO NOVA
-http://pfsv.io/live/epg/epg/295990.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/240806.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 010 SBT NACIONAL
-http://pfsv.io/live/epg/epg/46.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/244161.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 011 GLOBO SP
-http://pfsv.io/live/epg/epg/168251.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/289881.m3u8
+#EXTINF:-1 group-title="LISTA DE CANAIS", 011 GLOBO SP IPTV 2038
+http://ap4x.online/live/ONNEPLAY/0511605511/3787179.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 012 RECORD SP
-http://pfsv.io/live/epg/epg/45.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/244071.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 013 REDE TV!
-http://pfsv.io/live/epg/epg/48.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/80170.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 014 BAND TV
-http://pfsv.io/live/epg/epg/113585.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/255465.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 015 FUTURA
-http://pfsv.io/live/epg/epg/43.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/159.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 016 SPORTV
-http://pfsv.io/live/epg/epg/555.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/118881.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 017 SPORTV2
-http://pfsv.io/live/epg/epg/553.m3u8
-#EXTINF:-1 group-title="LISTA DE CANAIS", 018 SPORTV3
-http://pfsv.io/live/epg/epg/554.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/554.m3u8
+#EXTINF:-1 group-title="LISTA DE CANAIS", 018 SporTV3
+http://granpirosh.top/live/841866657/c581b7318b/559.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 019 ESPN
-http://pfsv.io/live/epg/epg/250.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/309458.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 020 ESPN 2
-http://pfsv.io/live/epg/epg/251.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/215.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 021 ESPN 3
-http://pfsv.io/live/epg/epg/254.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/220.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 022 ESPN 4
-http://pfsv.io/live/epg/epg/255.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/225.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 023 ESPN 5
-http://pfsv.io/live/epg/epg/248.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/228.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 024 BAND SPORTS
-http://pfsv.io/live/epg/epg/130175.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/235.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 025 COMBATE
-http://pfsv.io/live/epg/epg/249.m3u8
-#EXTINF:-1 group-title="LISTA DE CANAIS", 026 PREMIERE CLUBERS
-http://pfsv.io/live/epg/epg/524.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/240.m3u8
+#EXTINF:-1 group-title="LISTA DE CANAIS", 026 PREMIERE CLUBERS 1
+http://granpirosh.top/live/841866657/c581b7318b/494.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 027 PREMIERE 2
-http://pfsv.io/live/epg/epg/525.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/499.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 028 PREMIERE 3
-http://pfsv.io/live/epg/epg/526.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/504.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 029 PREMIERE 4
-http://pfsv.io/live/epg/epg/527.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/509.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 030 PREMIERE 5
-http://pfsv.io/live/epg/epg/528.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/514.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 031 PREMIERE 6
-http://pfsv.io/live/epg/epg/529.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/519.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 032 PREMIERE 7
-http://pfsv.io/live/epg/epg/530.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/519.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 033 PREMIERE 8
-http://pfsv.io/live/epg/epg/300082.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/380749.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 034 HGTV
-http://pfsv.io/live/epg/epg/167.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/2627.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 035 DISCOVERY CHANNEL
-http://pfsv.io/live/epg/epg/166.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/2577.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 036 DISCOVERY SCIENCE
-http://pfsv.io/live/epg/epg/169.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/2582.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 037 DISCOVERY THEATER
-http://pfsv.io/live/epg/epg/170.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/2587.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 038 DISCOVERY TURBO
-http://pfsv.io/live/epg/epg/171.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/2592.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 039 DISCOVERY H&H
-http://pfsv.io/live/epg/epg/130162.m3u8
-#EXTINF:-1 group-title="LISTA DE CANAIS", 040 DISCOVERY WORLD
-http://pfsv.io/live/epg/epg/172.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/2572.m3u8
+#EXTINF:-1 group-title="LISTA DE CANAIS", 040 HISTORY
+http://granpirosh.top/live/841866657/c581b7318b/2617.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 041 ANIMAL PLANET
-http://pfsv.io/live/epg/epg/164.m3u8
-#EXTINF:-1 group-title="LISTA DE CANAIS", 042 HISTORY
-http://pfsv.io/live/epg/epg/174.m3u8
-#EXTINF:-1 group-title="LISTA DE CANAIS", 043 HISTORY 2
-http://pfsv.io/live/epg/epg/173.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/2602.m3u8
+#EXTINF:-1 group-title="LISTA DE CANAIS", 042 HISTORY 2
+http://granpirosh.top/live/841866657/c581b7318b/2622.m3u8
+#EXTINF:-1 group-title="LISTA DE CANAIS", 043 DISCOVERY WORLD
+http://granpirosh.top/live/841866657/c581b7318b/2597.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 044 ADULT SWIM
-http://pfsv.io/live/epg/epg/199850.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/376344.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 045 DISCOVERY KIDS
-http://pfsv.io/live/epg/epg/127.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/364.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 046 CARTONITO
-http://pfsv.io/live/epg/epg/125.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/110683.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 047 GLOOB
-http://pfsv.io/live/epg/epg/136.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/377227.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 048 GLOBINHO
-http://pfsv.io/live/epg/epg/128.m3u8
-#EXTINF:-1 group-title="LISTA DE CANAIS", 049 DRAGON BALL CLASSICO
-http://pfsv.io/live/epg/epg/227617.m3u8
-#EXTINF:-1 group-title="LISTA DE CANAIS", 050 CHAVES
-http://pfsv.io/live/epg/epg/227545.m3u8
-#EXTINF:-1 group-title="LISTA DE CANAIS", 051 CARTOON NETWORK
-http://pfsv.io/live/epg/epg/126.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/377232.m3u8
+#EXTINF:-1 group-title="LISTA DE CANAIS", 049 DRAGON BALL Z
+http://granpirosh.top/live/841866657/c581b7318b/271601.m3u8
+#EXTINF:-1 group-title="LISTA DE CANAIS", 050 DRAGON BALL SUPER
+http://granpirosh.top/live/841866657/c581b7318b/271604.m3u8
+#EXTINF:-1 group-title="LISTA DE CANAIS", 051 CARTOON
+http://granpirosh.top/live/841866657/c581b7318b/352.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 052 NICKELODEON
-http://pfsv.io/live/epg/epg/131.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/372.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 053 NICK JR
-http://pfsv.io/live/epg/epg/130.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/368.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 054 UNIVERSAL TV
-http://pfsv.io/live/epg/epg/283.m3u8
-#EXTINF:-1 group-title="LISTA DE CANAIS", 055 DISNEY+
-http://pfsv.io/live/epg/epg/300940.m3u8
-#EXTINF:-1 group-title="LISTA DE CANAIS", 056 DISNEY+ 2
-http://pfsv.io/live/epg/epg/300941.m3u8
-#EXTINF:-1 group-title="LISTA DE CANAIS", 057 DISNEY+ 3
-http://pfsv.io/live/epg/epg/300942.m3u8
-#EXTINF:-1 group-title="LISTA DE CANAIS", 058 DISNEY+ 4
-http://pfsv.io/live/epg/epg/300943.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/743.m3u8
+#EXTINF:-1 group-title="LISTA DE CANAIS", 055 DISNEY
+http://granpirosh.top/live/841866657/c581b7318b/743.m3u8
+#EXTINF:-1 group-title="LISTA DE CANAIS", 056 DISNEY 2
+http://granpirosh.top/live/841866657/c581b7318b/232230.m3u8
+#EXTINF:-1 group-title="LISTA DE CANAIS", 057 DISNEY 3
+http://granpirosh.top/live/841866657/c581b7318b/232234.m3u8
+#EXTINF:-1 group-title="LISTA DE CANAIS", 058 DISNEY 4
+http://granpirosh.top/live/841866657/c581b7318b/232242.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 059 WARNER
-http://pfsv.io/live/epg/epg/297.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/749.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 060 SONY CHANNEL
-http://pfsv.io/live/epg/epg/274.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/21229.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 061 TNT NOVELAS
-http://pfsv.io/live/epg/epg/148422.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/264555.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 062 TNT SERIES
-http://pfsv.io/live/epg/epg/288.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/738.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 063 AXN
-http://pfsv.io/live/epg/epg/295.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/676.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 064 LIFE TIME
-http://pfsv.io/live/epg/epg/280.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/2488.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 065 E!
-http://pfsv.io/live/epg/epg/99.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/2472.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 066 A&E
-http://pfsv.io/live/epg/epg/293.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/666.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 067 COMEDY CENTRAL
-http://pfsv.io/live/epg/epg/300463.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/687.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 068 STUDIO UNIVERSAL
-http://pfsv.io/live/epg/epg/283.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/713.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 069 CANAL BRASIL
-http://pfsv.io/live/epg/epg/298.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/146.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 070 SPACE
-http://pfsv.io/live/epg/epg/282.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/707.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 071 CINEMAX
-http://pfsv.io/live/epg/epg/275.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/682.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 072 MEGAPIX
-http://pfsv.io/live/epg/epg/281.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/692.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 073 TNT
-http://pfsv.io/live/epg/epg/287.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/733.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 074 PARAMOUNT NETWORK
-http://pfsv.io/live/epg/epg/296.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/697.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 075 TELECINE PREMIUM
-http://pfsv.io/live/epg/epg/123549.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/635.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 076 TELECINE ACTION
-http://pfsv.io/live/epg/epg/123550.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/615.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 077 TELECINE TOUCH
-http://pfsv.io/live/epg/epg/123551.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/589.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 078 TELECINE FUN
-http://pfsv.io/live/epg/epg/123552.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/625.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 079 TELECINE CULT
-http://pfsv.io/live/epg/epg/123553.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/620.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 080 TELECINE PIPOCA
-http://pfsv.io/live/epg/epg/123548.m3u8
+http://granpirosh.top/live/841866657/c581b7318b/630.m3u8
