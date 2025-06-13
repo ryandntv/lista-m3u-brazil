@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="DESENHOS 24H", 084 CARTON NETWORK CDN
+https://aaa54.euonecdn.online:8443/api/v1/live/media/9BDCA724E3CA4213.m3u8?token=FInqBi8R9DDYxKwzI3nIt7y5MYkJnoyWIoRj8bX-OWNtKJBh1hMWhV4x91iTvFfw20tP0hveKvvmocL9ghgXkBzdxFKHFI8XcF3K8pqGcNBhkeNE-2VtK0lz0E5_9yunN7Ugjogpjha8A2evPeluaL_luCXzLWZyXQ7M0AgwzYpb5gNKBWUNgT9U4IjDY6-Qw1KhTQ9lOx0mkj1WvAEgVg
 #EXTINF:-1 group-title="DESENHOS 24H", 081 SOUTH PARK
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d53f168-eca6-11ee-861d-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown
 #EXTINF:-1 group-title="DESENHOS 24H", 082 PICA PAU
