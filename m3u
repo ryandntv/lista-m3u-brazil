@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="DESENHOS 24H", 084 CARTON NETWORK CDN
 http://hubby.run/live/RyanIPTV/Ly7prHXcpl/24003.m3u8
-#EXTINF:-1 group-title="DESENHOS 24H", 085 CARTON NETWORK tuning
+#EXTINF:-1 group-title="DESENHOS 24H", 085 CARTOON tuning
 http://216.227.152.66:9000/play/live/9BDCA724E3CA4213.m3u8?id=O0QRVjvnl7hCg9PKXTqh-G16yCg6XUy4xQwWPUZdmXc&uid=040609080233FFE9&mk=1750093490&client=newaaa&token=PD69nbVFxgk-UqxWPqvppIBFB1jOjYpwuRpwjRb7DUsWy520W4Zz0ozdFrtby35ZhRPpk6DM3fYjL96gB8wkh3hdo9R8tgv5By8_kjnFf4VbdMGpXjfggp-wsCdIBWlMzIkpKkeDKRoiFLgyC4VOgDFRpXXwHIRHI6jZZ7I2xts_lHE4dQisjxDVOiLtXOvPro2Kp5ixiekIJe9KBDvkZQ&ver=d000:c056&last=_NnuJdKISUA1Fnluz6xp26-RdpjJoWzsX8tk9nLuPYE&sign=2Uu2BVP0I6vxrf_DoYaEiA&sub=false&px=false&def=0
 #EXTINF:-1 group-title="DESENHOS 24H", 081 SOUTH PARK
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d53f168-eca6-11ee-861d-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown
